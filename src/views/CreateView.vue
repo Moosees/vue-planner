@@ -1,3 +1,3 @@
-<template>
-  <div class="about">Create</div>
-</template>
+<script setup lang="ts"></script>
+
+<template>Create plan</template>
